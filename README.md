@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stevetanus
+- 👋 Hi, I’m Thibe.
 - 👀 I’m interested in hiking, video games and movies.
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me ... by Email: steventhibe@gmail.com
