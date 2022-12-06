@@ -5,9 +5,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=stevetanus&hide=html,blade,css&layout=compact)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=stevetanus&hide=html&layout=compact)
 
-![stats](https://github-readme-stats.vercel.app/api?username=stevetanus&show_icons=true&hide=contribs&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=stevetanus&show_icons=true&count_private=true&theme=radical)
 
 <p>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
