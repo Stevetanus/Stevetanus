@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Thibe.
-- 👀 I’m interested in hiking, video games and movies.
 - 🌱 Mainly focus on web development.
 - 📫 How to reach me ... by Email: steventhibe@gmail.com
 
